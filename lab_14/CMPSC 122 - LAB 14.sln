@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CMPSC 122 - LAB 14", "CMPSC 122 - LAB 14\CMPSC 122 - LAB 14.vcxproj", "{59FBCB31-1F24-4C56-8EDE-502D993EC7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FBCB31-1F24-4C56-8EDE-502D993EC7F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59FBCB31-1F24-4C56-8EDE-502D993EC7F5}.Debug|Win32.Build.0 = Debug|Win32
+		{59FBCB31-1F24-4C56-8EDE-502D993EC7F5}.Release|Win32.ActiveCfg = Release|Win32
+		{59FBCB31-1F24-4C56-8EDE-502D993EC7F5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

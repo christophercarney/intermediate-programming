@@ -1,0 +1,14 @@
+﻿Build started 4/24/2014 3:25:18 AM.
+     1>Project "c:\Users\Chris\documents\visual studio 2012\Projects\CMPSC 122 - LAB 18\CMPSC 122 - LAB 18\CMPSC 122 - LAB 18.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt lab18.cpp
+         lab18.cpp
+     1>c:\users\chris\documents\visual studio 2012\projects\cmpsc 122 - lab 18\cmpsc 122 - lab 18\lab18.cpp(21): warning C4101: 'temp' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\chris\documents\visual studio 2012\Projects\CMPSC 122 - LAB 18\Debug\CMPSC 122 - LAB 18.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\chris\documents\visual studio 2012\Projects\CMPSC 122 - LAB 18\Debug\CMPSC 122 - LAB 18.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\chris\documents\visual studio 2012\Projects\CMPSC 122 - LAB 18\Debug\CMPSC 122 - LAB 18.lib" /MACHINE:X86 Debug\lab18.obj
+         CMPSC 122 - LAB 18.vcxproj -> c:\users\chris\documents\visual studio 2012\Projects\CMPSC 122 - LAB 18\Debug\CMPSC 122 - LAB 18.exe
+     1>Done Building Project "c:\Users\Chris\documents\visual studio 2012\Projects\CMPSC 122 - LAB 18\CMPSC 122 - LAB 18\CMPSC 122 - LAB 18.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60

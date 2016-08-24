@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CMPSC 122 - LAB 8", "CMPSC 122 - LAB 8\CMPSC 122 - LAB 8.vcxproj", "{3CBBED27-F6D7-4E1F-B2E2-6EB8CE33A66C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBBED27-F6D7-4E1F-B2E2-6EB8CE33A66C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CBBED27-F6D7-4E1F-B2E2-6EB8CE33A66C}.Debug|Win32.Build.0 = Debug|Win32
+		{3CBBED27-F6D7-4E1F-B2E2-6EB8CE33A66C}.Release|Win32.ActiveCfg = Release|Win32
+		{3CBBED27-F6D7-4E1F-B2E2-6EB8CE33A66C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
